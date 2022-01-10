@@ -1,0 +1,14 @@
+Package: rmstcompsens
+Type: Package
+Title: Comparing Restricted Mean Survival Time as Sensitivity Analysis
+Version: 0.1.1
+Date: 2022-1-10
+Author: Kentaro Ueno
+Maintainer: Kentaro Ueno <ueno_kentaro@kuhp.kyoto-u.ac.jp>
+Imports: survival, dplyr
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
